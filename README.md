@@ -1,7 +1,3 @@
-![Hey there, I'm Mohammed.](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
-
-
 # 👋 &nbsp;Hi there
 
 I'm a Backend developer skilled in Node.js, SQL, MongoDB, and JavaScript. Passionate about
