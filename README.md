@@ -1,5 +1,4 @@
-<!-- ![Hey there, I'm Mohammed.]([https://github.com/CyrisXD/CyrisXD/raw/master/header.gif](https://github.com/muhammed-ahmed-hassouna/muhammed-ahmed-hassouna/blob/main/MO.gif)) -->
-
+<!-- ![Hey there, I'm Mohammed.](https://github.com/muhammed-ahmed-hassouna/muhammed-ahmed-hassouna/blob/main/MO.gif) -->
 
 # 👋 &nbsp;Hi there
 
